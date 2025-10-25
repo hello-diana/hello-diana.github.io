@@ -109,8 +109,6 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
 
-    {{< displayVisitors >}}
-  
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
@@ -131,4 +129,12 @@ sections:
         # Card background color (CSS class)
         css_class: "bg-primary-700"
         css_style: ""
+  - block: markdown
+    id: visitors
+    content:
+      title: Visitors
+      text: |-
+        {{< displayVisitors >}}
+    design:
+      columns: '1'
 ---
