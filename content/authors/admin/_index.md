@@ -31,26 +31,27 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:ywang3420@gatech.edu'
+    url: 'ywang3420 - gatech.edu'
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/DianaYiyangWang
   - icon: brands/instagram
     url: https://www.instagram.com/diana.wyy/
   - icon: brands/github
-    url: https://github.com/DianaYiyangWang
+    url: https://github.com/hello-diana
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/yiyang-wang-diana/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=wdYlNXwAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/my-orcid?orcid=0000-0001-5778-3251
+    url: https://orcid.org/0000-0001-5778-3251
 
 interests:
   - Human-Computer Interaction
   - Large Language Models
+  - LLM Agents
+  - Multimodal LLMs
   - Ubiquitous Computing
-  - Multimodal Models
 
 education:
   - area: PhD in Computer Science
@@ -130,15 +131,15 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 95
         icon: code-bracket
       - name: Data analysis
         description: ''
-        percent: 80
+        percent: 95
         icon: chart-bar
       - name: Swift
         description: ''
-        percent: 60
+        percent: 80
         icon: device-phone-mobile
       - name: SQL
         description: ''
@@ -150,7 +151,7 @@ skills:
     items:
       - name: Cooking
         description: ''
-        percent: 60
+        percent: 90
         icon: custom/utensils-solid
       - name: Dogs
         description: ''
@@ -190,4 +191,4 @@ awards:
 
 ## About Me
 
-Yiyang (Diana) Wang is a third-year Computer Science Ph.D. student at Georgia Institute of Technology specializing in large language models (LLMs), human-computer interaction (HCI), multimodal sensing, and machine learning. 
+Yiyang (Diana) Wang is a third-year Computer Science Ph.D. student at Georgia Institute of Technology specializing in Large Language Models (LLMs), LLM Agents, Human-computer interaction (HCI), Multimodal Sensing, and Machine Learning. 
