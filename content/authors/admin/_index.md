@@ -59,7 +59,7 @@ education:
     date_start: 2023-08-17
     date_end: '2028-05-04'
     summary: |
-      Supervised by [Prof Josiah Hester](https://josiahhester.com/) and [Prof Alexander T Adams](https://www.alexandertadams.com/). 
+      Supervised by [Prof Josiah Hester](https://josiahhester.com/). 
   - area: Master of Human-Computer Interaction
     institution: Carnegie Mellon University
     date_start: 2022-08-29
@@ -67,17 +67,19 @@ education:
     summary: |
       GPA: 3.99/4.00
 
+      Supervised by [Prof Sherry Tongshuang Wu](https://www.cs.cmu.edu/~sherryw/). 
       Courses included:
+      - Design of AI Products
       - Software Structures for User Interfaces
       - User-Centered Research and Evaluation
-      - Design of AI Products
   - area: BSc Computer Science
     institution: Georgia Institute of Technology
     date_start: 2018-08-20
     date_end: 2022-05-06
     summary: |
-      GPA: 3.94/4.00
+      GPA: 3.94/4.00, Major GPA: 4.00/4.00
       
+      Supervised by [Prof Gregory Abowd](https://scholar.google.com/citations?user=gb8sbdcAAAAJ&hl=en) and [Prof Jennifer Kim](https://faculty.cc.gatech.edu/~jkim693/).
       Courses included:
       - Machine Learning
       - Ubiquitous Computing
@@ -90,7 +92,16 @@ work:
     date_start: 2025-05-19
     date_end: 2025-08-08
     summary: |2-
-      - Delivered E2E pipeline for natural language understanding models’ test set release on AWS account that reduced manual effort and total testing time by 50%
+      - Topic: A Multi-Agent Conversational AI Framework with Spatial Audio for Social Co-Viewing Experiences
+  - position: Software / UX Research
+    company_name: Meta
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-01-10
+    date_end: 2023-08-11
+    summary: |2-
+      Meta x CMU MHCI Capstone
+      - Designed Nova, an LLM-based assistant, to enhance knowledge sharing for the advancement of data centers, overcoming challenges by applying UX research techniques and prototyping, and culminating in a collaborative presentation at Meta’s Fremont office.
   - position: Software Development Engineer Intern
     company_name: Amazon
     company_url: ''
@@ -177,10 +188,18 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: 'NSF Student Travel Award'
+    date: '2025-06-25'
+    awarder: IEEE/ACM CHASE
+  - title: '1st place in the Graduate Poster Symposium (Junior Student category)'
+    date: '2025-05-16'
+    awarder: College of Computing, Georgia Institute of Technology
   - title: 'Faculty Honors'
     url: https://meritpages.com/YiyangWang
     date: '2022-05-01'
     awarder: Georgia Tech
+    summary: |
+      Awarded 4 times. This designation is awarded to undergraduate students who have earned a 4.0 academic average for the semester.
   - title: 'President’s Undergraduate Research Awards (PURA) - Salary Awards'
     # url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2021-09-01'
@@ -191,4 +210,4 @@ awards:
 
 ## About Me
 
-Yiyang (Diana) Wang is a third-year Computer Science Ph.D. student at Georgia Institute of Technology specializing in Large Language Models (LLMs), LLM Agents, Human-computer interaction (HCI), Multimodal Sensing, and Machine Learning. 
+Yiyang (Diana) Wang is a third-year Computer Science Ph.D. student at Georgia Institute of Technology specializing in Large Language Models (LLMs), LLM Agents, Human-AI interaction, Multimodal Sensing, and Machine Learning. 
