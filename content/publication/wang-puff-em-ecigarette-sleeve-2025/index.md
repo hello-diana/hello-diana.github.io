@@ -1,7 +1,7 @@
 ---
 title: 'PuffEM: An E-cigarette Sleeve for Estimating User Nicotine Intake'
 authors:
-- Yiyang Wang
+- admin
 - Rishabh Goel
 - Sheraz Hassan
 - Taegen J Doscher

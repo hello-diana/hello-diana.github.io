@@ -2,7 +2,7 @@
 title: 'Phantom Puffs: A Phantom Lung to Emulate Smoking Behavior'
 authors:
 - Rishabh Goel
-- Yiyang Wang
+- admin
 - Alexander T Adams
 date: 2024-09-10
 publishDate: '2024-12-30T13:57:56.745378Z'

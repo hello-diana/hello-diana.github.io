@@ -7,7 +7,7 @@ authors:
 - Yang Zhang
 - Yunzhi Li
 - Jung Wook Park
-- Yiyang Wang
+- admin
 - Yuhui Zhao
 - Nivedita Arora
 - Ali Mirzazadeh

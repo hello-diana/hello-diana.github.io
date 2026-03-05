@@ -5,7 +5,7 @@ authors:
 - Jung Wook Park
 - Yang Zhang
 - Yuhui Zhao
-- Yiyang Wang
+- admin
 - Yunzhi Li
 - Tanvi Bhagwat
 - Wen-Fang Chou

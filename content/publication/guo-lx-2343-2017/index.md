@@ -5,7 +5,7 @@ authors:
 - Xiao-dan Guo
 - Guang-long Sun
 - Ting-ting Zhou
-- Yi-yang Wang
+- admin
 - Xin Xu
 - Xiao-fan Shi
 - Zhi-yuan Zhu

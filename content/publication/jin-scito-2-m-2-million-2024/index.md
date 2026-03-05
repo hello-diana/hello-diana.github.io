@@ -4,7 +4,7 @@ title: 'Scito2M: A 2 Million, 30-Year Cross-disciplinary Dataset for Temporal Sc
 authors:
 - Yiqiao Jin
 - Yijia Xiao
-- Yiyang Wang
+- admin
 - Jindong Wang
 date: '2024-10-01'
 publishDate: '2025-07-12T20:31:43.238911Z'

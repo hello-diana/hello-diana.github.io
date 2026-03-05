@@ -6,7 +6,7 @@ authors:
 - Tingyu Cheng
 - Jinzhi Ye
 - Yuhui Zhao
-- Yiyang Wang
+- admin
 - Haiqing Xu
 - Abigale Stangl
 - HyunJoo Oh
