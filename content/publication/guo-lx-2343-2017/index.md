@@ -12,10 +12,12 @@ authors:
 - Vatcharin Rukachaisirikul
 - Li-hong Hu
 - Xu Shen
-date: 2017-08-01
-publishDate: '2024-12-30T13:57:56.726696Z'
+date: '2017-08-01'
+publishDate: '2017-08-01T00:00:00Z'
 publication_types:
 - article-journal
+publication: 'Acta Pharmacologica Sinica'
+publication_short: 'Acta Pharmacol. Sin.'
 doi: 10.1038/aps.2016.128
 abstract: Alzheimer's disease (AD) is a progressive neurodegenerative disease leading
   to the irreversible loss of brain neurons and cognitive abilities, and the vicious
@@ -38,15 +40,23 @@ abstract: Alzheimer's disease (AD) is a progressive neurodegenerative disease le
   the cognitive dysfunction in the AD model rats by suppressing OS-induced neuronal
   apoptosis and tauopathy, thus highlighting the potential of LX2343 for the treatment
   of AD.
+
+summary: 'A study showing that the small molecule LX2343 ameliorates cognitive dysfunction in Alzheimer''s-model rats by inhibiting oxidative-stress-induced neuronal apoptosis and tauopathy.'
+
 tags:
-- Biomedicine
-- general
-- Immunology
-- Internal Medicine
-- Medical Microbiology
-- Pharmacology/Toxicology
-- Vaccine
-links:
-- name: URL
-  url: https://www.nature.com/articles/aps2016128
+- Neuroscience
+- Pharmacology
+
+featured: false
+
+url_pdf: 'https://www.nature.com/articles/aps2016128'
+
+image:
+  caption: 'LX2343 structure and its protective effect against oxidative stress (adapted from Figure 1 of the paper).'
+  focal_point: 'Smart'
+  preview_only: false
+  alt_text: 'Chemical structure of LX2343 and cell-viability results under oxidative stress.'
+
+projects: []
+slides: ""
 ---

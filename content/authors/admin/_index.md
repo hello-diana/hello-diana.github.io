@@ -2,6 +2,9 @@
 # Display name
 title: Yiyang "Diana" Wang
 
+# Name shown in author lists / publication citations
+linkTitle: Yiyang Wang
+
 # Name pronunciation (optional)
 name_pronunciation: 
 
@@ -20,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. Student
+role: Ph.D. Student in Computer Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -31,7 +34,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'ywang3420 - gatech.edu'
+    url: 'mailto:ywang3420@gatech.edu'
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/DianaYiyangWang
@@ -47,61 +50,67 @@ profiles:
     url: https://orcid.org/0000-0001-5778-3251
 
 interests:
-  - Human-Computer Interaction
-  - Large Language Models
-  - LLM Agents
-  - Multimodal LLMs
+  - Human-AI Interaction
+  - Large Language Models and LLM Agents
+  - Multi-Agent Systems
+  - Multimodal Sensing
   - Ubiquitous Computing
+  - AI for Health and Well-Being
 
 education:
-  - area: PhD in Computer Science
+  - area: Ph.D. in Computer Science
     institution: Georgia Institute of Technology
     date_start: 2023-08-17
-    date_end: '2028-05-04'
+    date_end: ''
     summary: |
-      Supervised by [Prof Josiah Hester](https://josiahhester.com/). 
+      School of Interactive Computing. Research in the Uncommon Sense Lab and the Ka Moamoa Lab, advised by [Prof. Alexander T. Adams](https://www.alexander-adams.com/) and [Prof. Josiah Hester](https://josiahhester.com/).
   - area: Master of Human-Computer Interaction
     institution: Carnegie Mellon University
     date_start: 2022-08-29
     date_end: 2023-08-04
     summary: |
-      GPA: 3.99/4.00
-
-      Supervised by [Prof Sherry Tongshuang Wu](https://www.cs.cmu.edu/~sherryw/). 
-      Courses included:
-      - Design of AI Products
-      - Software Structures for User Interfaces
-      - User-Centered Research and Evaluation
-  - area: BSc Computer Science
+      GPA: 3.99/4.00. Advised by [Prof. Sherry Tongshuang Wu](https://www.cs.cmu.edu/~sherryw/).
+  - area: B.S. in Computer Science
     institution: Georgia Institute of Technology
     date_start: 2018-08-20
     date_end: 2022-05-06
     summary: |
-      GPA: 3.94/4.00, Major GPA: 4.00/4.00
-      
-      Supervised by [Prof Gregory Abowd](https://scholar.google.com/citations?user=gb8sbdcAAAAJ&hl=en) and [Prof Jennifer Kim](https://faculty.cc.gatech.edu/~jkim693/).
-      Courses included:
-      - Machine Learning
-      - Ubiquitous Computing
-      - Social Psychology
+      Threads: Intelligence and People. Cumulative GPA: 3.94/4.00, Major GPA: 4.00/4.00. Undergraduate research advised by [Prof. Gregory Abowd](https://scholar.google.com/citations?user=gb8sbdcAAAAJ&hl=en) and [Prof. Jennifer Kim](https://faculty.cc.gatech.edu/~jkim693/).
 work:
   - position: Research Scientist Intern
+    company_name: "Microsoft Research"
+    company_url: 'https://www.microsoft.com/en-us/research/'
+    company_logo: ''
+    date_start: 2026-05-01
+    date_end: 2026-08-31
+    summary: |2-
+      - Research Scientist Intern at Microsoft Research, Redmond, WA.
+  - position: Graduate Research Assistant
+    company_name: "Georgia Institute of Technology"
+    company_url: 'https://www.ic.gatech.edu/'
+    company_logo: ''
+    date_start: 2023-08-17
+    date_end: ''
+    summary: |2-
+      Uncommon Sense Lab & Ka Moamoa Lab, advised by Prof. Alexander T. Adams and Prof. Josiah Hester.
+      - Multi-agent and human-AI interaction systems for socially collaborative companionship and shared experiences.
+      - Multimodal sensing and machine learning for fine-grained e-cigarette consumption and smoking-cessation support.
+  - position: Ph.D. Research Intern
     company_name: "Dolby Laboratories"
     company_url: 'https://www.dolby.com/'
     company_logo: ''
     date_start: 2025-05-19
     date_end: 2025-08-08
     summary: |2-
-      - Topic: A Multi-Agent Conversational AI Framework with Spatial Audio for Social Co-Viewing Experiences
-  - position: Software / UX Research
-    company_name: Meta
+      - Designed a multi-agent conversational AI framework with spatial audio to reimagine sports streaming through AI companions for social co-viewing.
+  - position: UX Researcher
+    company_name: Meta x CMU MHCI Capstone
     company_url: ''
     company_logo: ''
     date_start: 2023-01-10
     date_end: 2023-08-11
     summary: |2-
-      Meta x CMU MHCI Capstone
-      - Designed Nova, an LLM-based assistant, to enhance knowledge sharing for the advancement of data centers, overcoming challenges by applying UX research techniques and prototyping, and culminating in a collaborative presentation at Meta’s Fremont office.
+      - Designed Nova, an LLM-based assistant to enhance knowledge sharing across data centers, applying UX research and prototyping, culminating in a presentation at Meta's Fremont office.
   - position: Software Development Engineer Intern
     company_name: Amazon
     company_url: ''
@@ -191,23 +200,32 @@ awards:
   - title: 'NSF Student Travel Award'
     date: '2025-06-25'
     awarder: IEEE/ACM CHASE
-  - title: '1st place in the Graduate Poster Symposium (Junior Student category)'
+  - title: '1st Place, Graduate Poster Symposium (Junior Student category)'
     date: '2025-05-16'
     awarder: College of Computing, Georgia Institute of Technology
+  - title: 'Selected Participant, Global Young Scientists Summit'
+    date: '2022-01-01'
+    awarder: National Research Foundation, Singapore
+    summary: |
+      1 of 1,000 selected participants, nominated by Student Innovation & Undergraduate Research, Georgia Tech.
+  - title: 'President’s Undergraduate Research Award (PURA) — Salary Award'
+    date: '2021-09-01'
+    awarder: Georgia Tech
+    summary: |
+      1 of 80 undergraduate awardees in Fall 2021 to receive a stipend for conducting research.
   - title: 'Faculty Honors'
     url: https://meritpages.com/YiyangWang
     date: '2022-05-01'
     awarder: Georgia Tech
     summary: |
-      Awarded 4 times. This designation is awarded to undergraduate students who have earned a 4.0 academic average for the semester.
-  - title: 'President’s Undergraduate Research Awards (PURA) - Salary Awards'
-    # url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2021-09-01'
-    awarder: Georgia Tech
-    summary: |
-      1 of 80 undergraduate awardees in Fall 2021 to receive a $1,500 stipend from Georgia Tech for conducting research.
+      Awarded for earning a 4.0 academic average for the semester.
+  - title: 'Grace Hopper Celebration Student Registration Scholarship'
+    date: '2020-09-01'
+    awarder: AnitaB.org
 ---
 
 ## About Me
 
-Yiyang (Diana) Wang is a third-year Computer Science Ph.D. student at Georgia Institute of Technology specializing in Large Language Models (LLMs), LLM Agents, Human-AI interaction, Multimodal Sensing, and Machine Learning. 
+Yiyang "Diana" Wang is a Computer Science Ph.D. student at Georgia Tech, working in the Uncommon Sense Lab and the Ka Moamoa Lab with Prof. Alexander T. Adams and Prof. Josiah Hester. Her research sits at the intersection of human-AI interaction, large language model agents, multimodal sensing, and ubiquitous computing.
+
+Her recent work studies socially collaborative, relationship-centered multi-agent systems — companions that support people through shared experiences rather than one-off answers. More broadly, she builds human-centered intelligent systems for health, well-being, and real-world sensing, connecting advances in multimodal and agentic AI to genuine human needs. She is always happy to chat about collaborations. ☕️

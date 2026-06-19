@@ -8,3 +8,8 @@ scripts/
 python/
 *.log
 resources/_gen/
+
+# Local source inputs (not part of the site)
+/Yiyang (Diana) Wang CV Sept 2025.pdf
+/_Yiyang Wang_ - _Google Scholar_.html
+hugo_stats.json
