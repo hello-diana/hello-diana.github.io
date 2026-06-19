@@ -21,6 +21,6 @@ main:
   - name: News
     url: /#news
     weight: 15
-  - name: CV (Sep. 2025)
-    url: /uploads/cv-yiyang-diana-wang-sep2025.pdf
+  - name: CV (Jun. 2026)
+    url: /uploads/cv-yiyang-diana-wang-jun2026.pdf
     weight: 16

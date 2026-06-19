@@ -9,4 +9,4 @@ tags:
   - Georgia Tech
 ---
 
-I started my Computer Science Ph.D. in the School of Interactive Computing at Georgia Tech, joining the Uncommon Sense Lab and the Ka Moamoa Lab to work on human-AI interaction and multimodal sensing.
+I started my Computer Science Ph.D. in the School of Interactive Computing at Georgia Tech, joining the Ka Moamoa Lab to work on human-AI interaction and multimodal sensing.

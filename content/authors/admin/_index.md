@@ -63,7 +63,7 @@ education:
     date_start: 2023-08-17
     date_end: ''
     summary: |
-      School of Interactive Computing. Research in the Uncommon Sense Lab and the Ka Moamoa Lab, advised by [Prof. Alexander T. Adams](https://www.alexander-adams.com/) and [Prof. Josiah Hester](https://josiahhester.com/).
+      School of Interactive Computing. Research in the Ka Moamoa Lab, advised by [Prof. Josiah Hester](https://josiahhester.com/).
   - area: Master of Human-Computer Interaction
     institution: Carnegie Mellon University
     date_start: 2022-08-29
@@ -77,14 +77,14 @@ education:
     summary: |
       Threads: Intelligence and People. Cumulative GPA: 3.94/4.00, Major GPA: 4.00/4.00. Undergraduate research advised by [Prof. Gregory Abowd](https://scholar.google.com/citations?user=gb8sbdcAAAAJ&hl=en) and [Prof. Jennifer Kim](https://faculty.cc.gatech.edu/~jkim693/).
 work:
-  - position: Research Scientist Intern
+  - position: Research Intern
     company_name: "Microsoft Research"
     company_url: 'https://www.microsoft.com/en-us/research/'
     company_logo: ''
     date_start: 2026-05-01
     date_end: 2026-08-31
     summary: |2-
-      - Research Scientist Intern at Microsoft Research, Redmond, WA.
+      - Research Intern at Microsoft Research, Redmond, WA.
   - position: Graduate Research Assistant
     company_name: "Georgia Institute of Technology"
     company_url: 'https://www.ic.gatech.edu/'
@@ -92,7 +92,7 @@ work:
     date_start: 2023-08-17
     date_end: ''
     summary: |2-
-      Uncommon Sense Lab & Ka Moamoa Lab, advised by Prof. Alexander T. Adams and Prof. Josiah Hester.
+      Ka Moamoa Lab, advised by Prof. Josiah Hester.
       - Multi-agent and human-AI interaction systems for socially collaborative companionship and shared experiences.
       - Multimodal sensing and machine learning for fine-grained e-cigarette consumption and smoking-cessation support.
   - position: Ph.D. Research Intern
@@ -103,7 +103,7 @@ work:
     date_end: 2025-08-08
     summary: |2-
       - Designed a multi-agent conversational AI framework with spatial audio to reimagine sports streaming through AI companions for social co-viewing.
-  - position: UX Researcher
+  - position: Research
     company_name: Meta x CMU MHCI Capstone
     company_url: ''
     company_logo: ''
@@ -197,6 +197,11 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: 'Mini-Seed Grant ($5,000)'
+    date: '2025-09-01'
+    awarder: College of Computing, Georgia Tech / Dolby
+    summary: |
+      Co-wrote the proposal with my advisor; awarded $5,000.
   - title: 'NSF Student Travel Award'
     date: '2025-06-25'
     awarder: IEEE/ACM CHASE
@@ -226,6 +231,6 @@ awards:
 
 ## About Me
 
-Yiyang "Diana" Wang is a Computer Science Ph.D. student at Georgia Tech, working in the Uncommon Sense Lab and the Ka Moamoa Lab with Prof. Alexander T. Adams and Prof. Josiah Hester. Her research sits at the intersection of human-AI interaction, large language model agents, multimodal sensing, and ubiquitous computing.
+Yiyang "Diana" Wang is a Computer Science Ph.D. student at Georgia Tech, working in the Ka Moamoa Lab with Prof. Josiah Hester. Her research sits at the intersection of human-AI interaction, large language model agents, multimodal sensing, and ubiquitous computing.
 
 Her recent work studies socially collaborative, relationship-centered multi-agent systems — companions that support people through shared experiences rather than one-off answers. More broadly, she builds human-centered intelligent systems for health, well-being, and real-world sensing, connecting advances in multimodal and agentic AI to genuine human needs. She is always happy to chat about collaborations. ☕️
