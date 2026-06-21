@@ -229,6 +229,8 @@ awards:
 
 ## About Me
 
-Yiyang "Diana" Wang is a Computer Science Ph.D. student at Georgia Tech, working in the Ka Moamoa Lab with Prof. Josiah Hester. Her research sits at the intersection of human-AI interaction, large language model agents, and multi-agent systems.
+Yiyang "Diana" Wang is a Computer Science Ph.D. student at Georgia Tech, where she works in the Ka Moamoa Lab with Prof. Josiah Hester. Her research lies at the intersection of human-AI interaction, large language model agents, and multi-agent systems.
 
-Her recent work studies socially collaborative, relationship-centered multi-agent systems — companions that support people through shared experiences rather than one-off answers. More broadly, she builds human-centered intelligent systems for health and well-being, connecting advances in multimodal and agentic AI to genuine human needs. She is always happy to chat about collaborations. ☕️
+Her recent work studies socially collaborative, relationship-centered multi-agent systems — AI companions that support people through shared experiences rather than one-off answers. More broadly, she designs human-centered intelligent systems for health and well-being, translating advances in multimodal and agentic AI into tools that meet genuine human needs.
+
+She is currently a Research Intern at Microsoft Research and is always glad to discuss new ideas and collaborations. ☕️
