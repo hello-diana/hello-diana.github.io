@@ -4,7 +4,7 @@ summary: A unified framework for studying self-distillation in large language mo
 tags:
   - Large Language Models
 date: 2026-05-07
-featured: false
+featured: true
 
 image:
   caption: 'Overview of the UniSD framework (adapted from the paper).'

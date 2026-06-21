@@ -1,14 +1,9 @@
 ---
 title: 'SciEvo: A 2 Million, 30-Year Cross-disciplinary Dataset for Temporal Scientometric Analysis'
 
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
-authors:
-  - Yiqiao Jin
-  - Yijia Xiao
-  - admin
-  - Jindong Wang
+# Authors intentionally omitted so no collaborator byline shows on the project card.
+# Full author list and ordering are preserved in the Publications entry (jin-scito-2-m-2024).
+authors: []
 
 date: '2025-03-03T00:00:00Z'
 doi: ''

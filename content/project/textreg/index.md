@@ -5,7 +5,7 @@ tags:
   - Large Language Models
   - Prompt Optimization
 date: 2026-05-20
-featured: true
+featured: false
 
 image:
   caption: 'Overfitted vs. generalizable prompts on an out-of-domain question (adapted from the paper).'

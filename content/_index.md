@@ -32,7 +32,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I design human-centered intelligent systems at the intersection of **human-AI interaction**, **large language model agents**, **multimodal sensing**, and **ubiquitous computing**. My recent work studies socially collaborative, relationship-centered multi-agent systems — AI companions that support people through shared experiences. More broadly, I build systems for health, well-being, and real-world sensing that connect advances in multimodal and agentic AI to genuine human needs.
+        I design human-centered intelligent systems at the intersection of **human-AI interaction**, **large language model agents**, and **multi-agent systems**. My recent work studies socially collaborative, relationship-centered multi-agent systems — AI companions that support people through shared experiences. More broadly, I build systems for health and well-being that connect advances in multimodal and agentic AI to genuine human needs.
 
         I'm always glad to talk about research and collaborations 😃
     design:
