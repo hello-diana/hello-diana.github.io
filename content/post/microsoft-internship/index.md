@@ -1,7 +1,7 @@
 ---
 title: 🚀 Joined Microsoft Research as a Research Intern
 summary: Started a research internship at Microsoft Research in Redmond, WA for Summer 2026.
-date: 2026-05-01
+date: 2026-05-26
 authors:
   - admin
 tags:
