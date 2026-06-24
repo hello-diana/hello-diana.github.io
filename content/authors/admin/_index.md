@@ -229,8 +229,12 @@ awards:
 
 ## About Me
 
-Yiyang "Diana" Wang is a Computer Science Ph.D. student at Georgia Tech, where she works in the Ka Moamoa Lab with Prof. Josiah Hester. Her research lies at the intersection of human-AI interaction, large language model agents, and multi-agent systems.
+Yiyang "Diana" Wang is a Computer Science Ph.D. student at Georgia Tech, working in the Ka Moamoa Lab with Prof. Josiah Hester. Her research sits at the intersection of **agentic AI**, **large language model (LLM) agents**, and **human–AI interaction**, building intelligent systems that augment human capabilities and improve real-world decision making.
 
-Her recent work studies socially collaborative, relationship-centered multi-agent systems — AI companions that support people through shared experiences rather than one-off answers. More broadly, she designs human-centered intelligent systems for health and well-being, translating advances in multimodal and agentic AI into tools that meet genuine human needs.
+A central thread of her work is designing and evaluating **multi-agent systems** that are collaborative, reliable, and grounded in human needs. She has built LLM-agent frameworks to study complex social dynamics ([AgentReview](https://aclanthology.org/2024.emnlp-main.70/), EMNLP 2024) and relationship-centered, socio-collaborative AI companions for shared experiences ([MASCOT](/publication/mascot/), [CompanionCast](/publication/companioncast/), and [CultivAgents](/publication/cultivagents/)). She also advances the **foundation-model** stack itself — from robustness and prompt optimization for **large language models** ([TextReg](/publication/textreg/)) to efficient **self-distillation** for LLMs ([UniSD](/publication/unisd/)).
 
-She is currently a Research Intern at Microsoft Research and is always glad to discuss new ideas and collaborations. ☕️
+Complementing this, she develops multimodal sensing and machine learning systems for **health and social good**, translating raw signals into actionable insight — for example, fine-grained nicotine-intake estimation for smoking-cessation support ([PuffEM](/publication/wang-puff-em-ecigarette-sleeve-2025/), IEEE/ACM CHASE 2025). Across projects, she pairs rigorous **evaluation** and **human-centered design** with practical engineering (Python, ML pipelines, on-device systems) to ship research that drives product and real-world impact.
+
+She is currently a **Research Intern at Microsoft Research** (2026), following a research internship at **Dolby** (2025) and software engineering internships at Amazon (×2) and HubSpot. She is actively seeking **AI research / applied scientist** internship and full-time opportunities, and is always glad to discuss new ideas and collaborations. ☕️
+
+Learn more on her [Google Scholar](https://scholar.google.com/citations?user=wdYlNXwAAAAJ&hl=en), [GitHub](https://github.com/hello-diana), and [LinkedIn](https://www.linkedin.com/in/yiyang-wang-diana/).
