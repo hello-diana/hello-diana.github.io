@@ -17,16 +17,6 @@ sections:
       # Show a call-to-action button under your biography? (optional)
     # No background override: the section uses the site's default background and
     # text colors, which automatically follow the dark/light mode toggle.
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        I design human-centered intelligent systems at the intersection of **human-AI interaction**, **large language model agents**, and **multi-agent systems**. My recent work studies socially collaborative, relationship-centered multi-agent systems — AI companions that support people through shared experiences rather than one-off answers. More broadly, I build systems for health and well-being that translate advances in multimodal and agentic AI into tools that meet genuine human needs.
-
-        I'm always glad to talk about research and new collaborations 😃
-    design:
-      columns: '1'
   - block: collection
     id: projects
     content:
