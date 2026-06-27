@@ -83,16 +83,7 @@ work:
     date_end: 2026-08-31
     summary: |2-
       - Research Intern at Microsoft Research, Redmond, WA.
-  - position: Graduate Research Assistant
-    company_name: "Georgia Institute of Technology"
-    company_url: 'https://www.ic.gatech.edu/'
-    company_logo: ''
-    date_start: 2023-08-17
-    date_end: ''
-    summary: |2-
-      Ka Moamoa Lab, advised by Prof. Josiah Hester.
-      - Multi-agent and human-AI interaction systems for socially collaborative companionship and shared experiences.
-      - Multimodal sensing and machine learning for fine-grained e-cigarette consumption and smoking-cessation support.
+  
   - position: Ph.D. Research Intern
     company_name: "Dolby Laboratories"
     company_url: 'https://www.dolby.com/'
@@ -100,7 +91,9 @@ work:
     date_start: 2025-05-19
     date_end: 2025-08-08
     summary: |2-
-      - Designed a multi-agent conversational AI framework with spatial audio to reimagine sports streaming through AI companions for social co-viewing.
+      - Developed CompanionCast, a multi-agent conversational AI framework designed to enhance social co-viewing experiences through LLM-driven companion agents.
+      - Integrated spatial audio processing into a multi-agent system to create immersive, realistic social interactions in group entertainment settings.
+      - Implemented an LLM-as-the-judge evaluation pipeline to iterate on agent alignment and conversational quality.
   - position: Research
     company_name: Meta x CMU MHCI Capstone
     company_url: ''
@@ -108,7 +101,7 @@ work:
     date_start: 2023-01-10
     date_end: 2023-08-11
     summary: |2-
-      - Designed Nova, an LLM-based assistant to enhance knowledge sharing across data centers, applying UX research and prototyping, culminating in a presentation at Meta's Fremont office.
+      - Designed Nova, an LLM-based assistant, to enhance knowledge sharing for the advancement of data centers, overcoming challenges by applying UX research techniques and prototyping, and culminating in a collaborative presentation at Meta's Fremont office.
   - position: Software Development Engineer Intern
     company_name: Amazon
     company_url: ''
@@ -116,7 +109,7 @@ work:
     date_start: 2022-05-24
     date_end: 2022-08-13
     summary: |2-
-      - Delivered E2E pipeline for natural language understanding models’ test set release on AWS account that reduced manual effort and total testing time by 50%
+      - Delivered E2E pipeline using AWS (Lambda, State Machines) for natural language understanding models’ test set release that reduced manual effort and total testing time by 50%
   - position: Software Development Engineer Intern
     company_name: Amazon
     company_url: ''
