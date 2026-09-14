@@ -50,10 +50,11 @@ profiles:
     url: https://orcid.org/0000-0001-5778-3251
 
 interests:
-  - Human-AI Interaction
+  - Human-Centered AI Alignment
   - Large Language Models and LLM Agents
   - Multi-Agent Systems
-  - AI for Health and Well-Being
+  - AI Safety and Trustworthy AI
+  - AI for Health
 
 education:
   - area: Ph.D. in Computer Science
@@ -67,7 +68,7 @@ education:
     date_start: 2022-08-29
     date_end: 2023-08-04
     summary: |
-      GPA: 3.99/4.00. Advised by [Prof. Sherry Tongshuang Wu](https://www.cs.cmu.edu/~sherryw/).
+      GPA: 3.99/4.00. Research in the WInE Lab on human-in-the-loop alignment and uncertainty calibration for code-generating LLMs, advised by [Prof. Sherry Tongshuang Wu](https://www.cs.cmu.edu/~sherryw/).
   - area: B.S. in Computer Science
     institution: Georgia Institute of Technology
     date_start: 2018-08-20
@@ -75,15 +76,23 @@ education:
     summary: |
       Threads: Intelligence and People. Cumulative GPA: 3.94/4.00, Major GPA: 4.00/4.00. Undergraduate research advised by [Prof. Gregory Abowd](https://scholar.google.com/citations?user=gb8sbdcAAAAJ&hl=en) and [Prof. Jennifer Kim](https://faculty.cc.gatech.edu/~jkim693/).
 work:
+  - position: Applied Scientist II Intern
+    company_name: Amazon
+    company_url: 'https://www.amazon.science/'
+    company_logo: ''
+    date_start: 2026-09-01
+    date_end: ''
+    summary: |2-
+      - Applied Scientist II Intern at Amazon, Seattle, WA.
   - position: Research Intern
-    company_name: "Microsoft Research"
+    company_name: "Microsoft AI / Microsoft Research"
     company_url: 'https://www.microsoft.com/en-us/research/'
     company_logo: ''
-    date_start: 2026-05-01
+    date_start: 2026-05-26
     date_end: 2026-08-31
     summary: |2-
-      - Research Intern at Microsoft Research, Redmond, WA.
-  
+      - Research Intern in Redmond, WA, working on AI agents in health.
+
   - position: Ph.D. Research Intern
     company_name: "Dolby Laboratories"
     company_url: 'https://www.dolby.com/'
@@ -101,9 +110,9 @@ work:
     date_start: 2023-01-10
     date_end: 2023-08-11
     summary: |2-
-      - Designed Nova, an LLM-based assistant, to enhance knowledge sharing for the advancement of data centers, overcoming challenges by applying UX research techniques and prototyping, and culminating in a collaborative presentation at Meta's Fremont office.
+      - Designed and prototyped Nova, an LLM-based knowledge assistant for data center operations, integrating retrieval-augmented generation with human-centered AI workflows to support domain-specific knowledge access, technical decision-making, and cross-team collaboration.
   - position: Software Development Engineer Intern
-    company_name: Amazon
+    company_name: Amazon - AGI Foundations
     company_url: ''
     company_logo: ''
     date_start: 2022-05-24
@@ -144,9 +153,17 @@ skills:
         description: ''
         percent: 95
         icon: code-bracket
-      - name: Data analysis
+      - name: PyTorch & Hugging Face
         description: ''
-        percent: 95
+        percent: 90
+        icon: cpu-chip
+      - name: LLM Post-Training (RLAIF, Preference Optimization)
+        description: ''
+        percent: 90
+        icon: sparkles
+      - name: Agent Evaluation
+        description: ''
+        percent: 90
         icon: chart-bar
       - name: Swift
         description: ''
@@ -199,6 +216,11 @@ awards:
   - title: '1st Place, Graduate Poster Symposium (Junior Student category)'
     date: '2025-05-16'
     awarder: College of Computing, Georgia Institute of Technology
+  - title: 'Core77 Design Awards'
+    date: '2022-06-01'
+    awarder: Core77
+    summary: |
+      Member of the project team for PITAS.
   - title: 'Selected Participant, Global Young Scientists Summit'
     date: '2022-01-01'
     awarder: National Research Foundation, Singapore
@@ -209,6 +231,9 @@ awards:
     awarder: Georgia Tech
     summary: |
       1 of 80 undergraduate awardees in Fall 2021 to receive a stipend for conducting research.
+  - title: 'Undergraduate Student Researcher Making an Impact'
+    date: '2021-06-01'
+    awarder: Georgia Tech
   - title: 'Faculty Honors'
     url: https://meritpages.com/YiyangWang
     date: '2022-05-01'
@@ -218,14 +243,17 @@ awards:
   - title: 'Grace Hopper Celebration Student Registration Scholarship'
     date: '2020-09-01'
     awarder: AnitaB.org
+  - title: "Dean's List"
+    date: '2019-05-01'
+    awarder: Georgia Tech
 ---
 
 ## About Me
 
-Yiyang "Diana" Wang is a Computer Science Ph.D. student at Georgia Tech, working in the Ka Moamoa Lab with Prof. Josiah Hester. Her research sits at the intersection of **agentic AI**, **large language model (LLM) agents**, and **human–AI interaction**, building intelligent systems that augment human capabilities and improve real-world decision making.
+Yiyang "Diana" Wang is a Computer Science Ph.D. student at Georgia Tech, working in the Ka Moamoa Lab with Prof. Josiah Hester. She researches **human-centered AI alignment** for **large language models** and **agentic systems**: she studies how AI systems behave and fail in social and collaborative settings, and develops **post-training**, **evaluation**, and **interaction** methods that make them more reliable, steerable, and responsive to human needs.
 
-A central thread of her work is designing and evaluating **multi-agent systems** that are collaborative, reliable, and grounded in human needs. She has built LLM-agent frameworks to study complex social dynamics ([AgentReview](https://aclanthology.org/2024.emnlp-main.70/), EMNLP 2024) and relationship-centered, socio-collaborative AI companions for shared experiences ([MASCOT](/publication/mascot/), [CompanionCast](/publication/companioncast/), and [CultivAgents](/publication/cultivagents/)). She also advances the **foundation-model** stack itself — from robustness and prompt optimization for **large language models** ([TextReg](/publication/textreg/)) to efficient **self-distillation** for LLMs ([UniSD](/publication/unisd/)).
+A central thread of her work is designing and evaluating **multi-agent systems** that are collaborative, reliable, and grounded in human needs. She has built LLM-agent frameworks to study complex social dynamics ([AgentReview](https://aclanthology.org/2024.emnlp-main.70/), EMNLP 2024 Oral) and socio-collaborative AI companions that stay in character and contribute meaningfully ([MASCOT](/publication/mascot/), EMNLP 2026 Main; [CompanionCast](/publication/companioncast/); and [CultivAgents](/publication/cultivagents/)). She also advances the **foundation-model** stack itself — from robustness and prompt optimization for **large language models** ([TextReg](/publication/textreg/)) to efficient **self-distillation** for LLMs ([UniSD](/publication/unisd/)).
 
 Complementing this, she develops multimodal sensing and machine learning systems for **health and social good**, translating raw signals into actionable insight — for example, fine-grained nicotine-intake estimation for smoking-cessation support ([PuffEM](/publication/wang-puff-em-ecigarette-sleeve-2025/), IEEE/ACM CHASE 2025). Across projects, she pairs rigorous **evaluation** and **human-centered design** with practical engineering (Python, ML pipelines, on-device systems) to ship research that drives product and real-world impact.
 
-She is currently a **Research Intern at Microsoft Research** (2026), following a research internship at **Dolby** (2025) and software engineering internships at Amazon (×2) and HubSpot. She is actively seeking **AI research / applied scientist** internship and full-time opportunities, and is always glad to discuss new ideas and collaborations. ☕️
+She is currently an **Applied Scientist II Intern at Amazon** (Fall 2026), following a research internship at **Microsoft AI / Microsoft Research** on AI agents in health (Summer 2026), a Ph.D. research internship at **Dolby** (2025), and software engineering internships at Amazon (×2) and HubSpot. She is actively seeking **AI research / applied scientist** internship and full-time opportunities, and is always glad to discuss new ideas and collaborations. ☕️

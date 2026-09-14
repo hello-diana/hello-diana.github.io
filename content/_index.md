@@ -17,6 +17,10 @@ sections:
       # Show a call-to-action button under your biography? (optional)
     # No background override: the section uses the site's default background and
     # text colors, which automatically follow the dark/light mode toggle.
+    design:
+      # Reduce the top gap between the navbar/header and the About Me content.
+      spacing:
+        padding: ['2rem', '0', '6rem', '0']
   - block: collection
     id: projects
     content:
