@@ -1,5 +1,5 @@
 ---
-title: 'MASCOT: Towards Multi-Agent Socio-Collaborative Companion Systems'
+title: 'MASCOT: Multi-Agent Socio-Collaborative Companion Systems'
 
 authors:
   - admin
