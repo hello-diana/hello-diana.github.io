@@ -76,14 +76,14 @@ education:
     summary: |
       Threads: Intelligence and People. Cumulative GPA: 3.94/4.00, Major GPA: 4.00/4.00. Undergraduate research advised by [Prof. Gregory Abowd](https://scholar.google.com/citations?user=gb8sbdcAAAAJ&hl=en) and [Prof. Jennifer Kim](https://faculty.cc.gatech.edu/~jkim693/).
 work:
-  - position: Applied Scientist II Intern
+  - position: Applied Scientist Intern
     company_name: Amazon
     company_url: 'https://www.amazon.science/'
     company_logo: ''
-    date_start: 2026-09-01
+    date_start: 2026-08-01
     date_end: ''
     summary: |2-
-      - Applied Scientist II Intern at Amazon, Seattle, WA.
+      - Applied Scientist Intern at Amazon, Seattle, WA.
   - position: Research Intern
     company_name: "Microsoft AI / Microsoft Research"
     company_url: 'https://www.microsoft.com/en-us/research/'
@@ -256,4 +256,4 @@ A central thread of her work is designing and evaluating **multi-agent systems**
 
 Complementing this, she develops multimodal sensing and machine learning systems for **health and social good**, translating raw signals into actionable insight — for example, fine-grained nicotine-intake estimation for smoking-cessation support ([PuffEM](/publication/wang-puff-em-ecigarette-sleeve-2025/), IEEE/ACM CHASE 2025). Across projects, she pairs rigorous **evaluation** and **human-centered design** with practical engineering (Python, ML pipelines, on-device systems) to ship research that drives product and real-world impact.
 
-She is currently an **Applied Scientist II Intern at Amazon** (Fall 2026), following a research internship at **Microsoft AI / Microsoft Research** on AI agents in health (Summer 2026), a Ph.D. research internship at **Dolby** (2025), and software engineering internships at Amazon (×2) and HubSpot. She is actively seeking **AI research / applied scientist** internship and full-time opportunities, and is always glad to discuss new ideas and collaborations. ☕️
+She is currently an **Applied Scientist Intern at Amazon** (since August 2026), following a research internship at **Microsoft AI / Microsoft Research** on AI agents in health (Summer 2026), a Ph.D. research internship at **Dolby** (2025), and software engineering internships at Amazon (×2) and HubSpot. She is actively seeking **AI research / applied scientist** internship and full-time opportunities, and is always glad to discuss new ideas and collaborations. ☕️

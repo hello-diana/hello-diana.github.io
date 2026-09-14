@@ -1,7 +1,7 @@
 ---
 title: 🎉 MASCOT accepted to the EMNLP 2026 Main Conference
 summary: MASCOT, our multi-agent socio-collaborative companion framework, was accepted to the EMNLP 2026 Main Conference.
-date: 2026-09-13
+date: 2026-08-20
 authors:
   - admin
 tags:
