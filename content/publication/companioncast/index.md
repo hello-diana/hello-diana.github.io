@@ -1,5 +1,5 @@
 ---
-title: 'CompanionCast: Toward Social Collaboration with Multi-Agent Systems in Shared Experiences'
+title: 'CompanionCast: A Multi-Agent Conversational AI Framework with Spatial Audio for Social Co-Viewing Experiences'
 
 authors:
   - admin
