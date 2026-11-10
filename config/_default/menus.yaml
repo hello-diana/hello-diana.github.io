@@ -9,8 +9,8 @@ main:
   - name: Research
     url: /#projects
     weight: 11
-  - name: Publications
-    url: /publication/
+  - name: Publications ↗
+    url: https://scholar.google.com/citations?user=wdYlNXwAAAAJ&hl=en
     weight: 12
   - name: Experience
     url: /#experience

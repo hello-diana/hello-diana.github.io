@@ -37,8 +37,20 @@ tags:
 - AI for Health and Well-Being
 
 featured: true
+weight: 60
+contribution: 'Co-first author · Equal contribution'
 
 url_pdf: 'https://doi.org/10.1145/3721201.3721393'
+
+links:
+- name: Media
+  url: 'https://www.techsquareatl.com/tech-square-news/2026/2/25/puffem-takes-a-new-approach-to-vaping-research'
+
+image:
+  caption: 'PuffEM device and sensing hardware (adapted from the paper).'
+  focal_point: 'Smart'
+  preview_only: false
+  alt_text: 'PuffEM working principle, e-cigarette sleeve, and custom circuit board.'
 
 projects: []
 slides: ""
@@ -47,3 +59,7 @@ slides: ""
 ## Abstract
 
 With the increasing prevalence of Electronic Nicotine Delivery Systems (ENDS), understanding vaping behaviors and nicotine intake is essential. We introduce **PuffEM**, a low-power, versatile system that reliably detects vaping events using a touch sensor and on-the-surface magnetometer to estimate nicotine intake. Integrated with a mobile app, PuffEM collects sensor and contextual data to support vaping and addiction research and health interventions. Lab tests confirm its ability to detect vaping events across three ENDS devices and estimate vaporized nicotine liquid, and a five-day in-wild study demonstrated high usability and low burden.
+
+## Related patent application
+
+**Contactless Electromagnetic Sensing Sleeve for Real-Time E-Cigarette Use Detection and Nicotine Intake Estimation.** Application in preparation.

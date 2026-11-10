@@ -26,7 +26,7 @@ url_project: 'https://hello-diana.github.io/MASCOT/'
 url_code: 'https://github.com/hello-diana/MASCOT'
 ---
 
-*Accepted to the EMNLP 2026 Main Conference.*
+*Accepted to the EMNLP 2026 Main Conference as an oral presentation.*
 
 Multi-agent systems are increasingly used as companions for emotional and cognitive support, but they often drift into generic assistant behavior (*persona collapse*) or pile on redundant, agreeable dialogue (*social sycophancy*). **MASCOT** is a framework for multi-perspective socio-collaborative companions that addresses both problems with a bi-level optimization strategy: a persona-aware behavioral alignment pipeline that gives each agent a distinct identity, and a collaborative dialogue optimization step that pushes the group toward complementary, productive discourse.
 

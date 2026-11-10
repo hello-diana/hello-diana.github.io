@@ -14,7 +14,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Yiyang "Diana" Wang is a Computer Science Ph.D. student at Georgia Tech researching human-AI interaction, LLM agents, multi-agent systems, multimodal sensing, and ubiquitous computing.'
+    description: 'Yiyang "Diana" Wang is a Computer Science Ph.D. student at Georgia Tech researching agentic and human-centered AI, multi-agent systems, self-distillation, computer-use agents, and AI for health.'
     twitter: 'DianaYiyangWang'
   analytics:
     google_analytics: ''

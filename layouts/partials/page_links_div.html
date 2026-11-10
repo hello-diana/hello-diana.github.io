@@ -1,0 +1,28 @@
+{{/* Keep the theme's link buttons and show contribution notes on paper pages. */}}
+{{ $has_attachments := partial "functions/has_attachments" . }}
+{{ if $has_attachments | or .Params.external_link }}
+  <div>
+    {{ with .Params.external_link }}
+      <a class="btn btn-outline-primary my-1" href="{{ . }}" target="_blank" rel="noopener">{{ i18n "open_project_site" }}</a>
+    {{ end }}
+    {{ partial "page_links" (dict "page" . "is_list" 0) }}
+  </div>
+{{ end }}
+
+{{ if eq .Type "publication" }}
+  {{ $equal_authors := slice }}
+  {{ range $index, $note := .Params.author_notes }}
+    {{ if eq $note "Equal contribution" }}
+      {{ $name := index $.Params.authors $index }}
+      {{ with site.GetPage (printf "/authors/%s" $name) }}
+        {{ $name = .LinkTitle }}
+      {{ end }}
+      {{ $equal_authors = $equal_authors | append $name }}
+    {{ end }}
+  {{ end }}
+  {{ with $equal_authors }}
+    <p class="mt-3 text-sm text-gray-500 dark:text-gray-400">
+      <strong>Equal contribution:</strong> {{ delimit . " and " }}.
+    </p>
+  {{ end }}
+{{ end }}

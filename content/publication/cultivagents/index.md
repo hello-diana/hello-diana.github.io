@@ -17,8 +17,8 @@ doi: '10.48550/arXiv.2605.23193'
 publishDate: '2026-05-22T00:00:00Z'
 
 publication_types: ['article']
-publication: 'arXiv preprint'
-publication_short: 'arXiv'
+publication: 'arXiv preprint — under submission'
+publication_short: 'Preprint · Under submission'
 
 abstract: 'Gardening is critical to support well-being, cultural continuity, and food autonomy, yet existing digital tools often provide generic advice that overlooks gardeners'' skills, local ecologies, seasons, and cultural contexts. We introduce CultivAgents, a relationship-centered multi-agent system for personalized, socio-culturally grounded gardening support. Grounded in ethics of care, CultivAgents coordinates multiple specialized agents: an Experience Agent that adapts guidance to users'' skill levels, an Environmental Agent that grounds advice in local and seasonal conditions, and an Ethnobotanical Agent that connects plants to cultural knowledge and histories. We evaluated CultivAgents through a three-phase mixed-methods study with domain experts (n=3), HCI researchers (n=7), and community gardeners (n=5). Results suggest that CultivAgents helped gardeners translate interest into situated action, with community gardeners reporting increased confidence, motivation, and trust in acting on AI advice. The work advances relationship-centered AI, offering design implications for multi-agent systems that support food sovereignty, community resilience, and cultural preservation.'
 
@@ -31,9 +31,14 @@ tags:
   - AI for Health and Well-Being
 
 featured: true
+weight: 40
+contribution: 'First author'
 
 url_pdf: 'https://arxiv.org/abs/2605.23193'
 url_project: 'https://hello-diana.github.io/CultivAgents/'
+links:
+  - name: Media
+    url: 'https://www.cc.gatech.edu/news/chatbot-good-news-people-not-so-green-thumbs'
 
 image:
   caption: 'CultivAgents system overview (adapted from Figure 1 of the paper).'

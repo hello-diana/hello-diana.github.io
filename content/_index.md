@@ -24,29 +24,37 @@ sections:
   - block: collection
     id: projects
     content:
-      title: Featured Research
-      text: ""
+      title: Featured Publications
+      text: "Selected first-author and co-first-author work in multi-agent systems, self-distillation, and health sensing."
       count: 0
-      filters:
-        folders:
-          - project
-        featured_only: true
-    design:
-      view: article-grid
-      fill_image: false
-      columns: 2
-  - block: collection
-    id: papers
-    content:
-      title: Publications
-      text: ""
-      count: 0
+      sort_by: weight
+      sort_ascending: true
       filters:
         folders:
           - publication
-        exclude_featured: false
+        featured_only: true
+      archive:
+        enable: true
+        text: Full publication list on Google Scholar ↗
+        link: https://scholar.google.com/citations?user=wdYlNXwAAAAJ&hl=en
     design:
-      view: citation
+      view: publication-card
+      fill_image: false
+      columns: 2
+  - block: markdown
+    id: papers
+    content:
+      title: Publications
+      text: |-
+        For my full publication list and citations, visit **[Google Scholar ↗](https://scholar.google.com/citations?user=wdYlNXwAAAAJ&hl=en)**.
+
+        Recent collaborations include [PersonaCUABench](/publication/personacuabench/), [SourceLearn](/publication/sourcelearn/), [on-policy distillation in vision-language models](/publication/on-policy-distillation/), [FireFair](/publication/firefair/), and [Inductus](/publication/inductus/).
+
+        Paper details and BibTeX are also available in the [publication archive](/publication/).
+    design:
+      columns: '1'
+      spacing:
+        padding: ['2rem', '0', '4rem', '0']
   - block: resume-experience
     id: experience
     content:

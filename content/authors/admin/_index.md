@@ -50,10 +50,12 @@ profiles:
     url: https://orcid.org/0000-0001-5778-3251
 
 interests:
-  - Human-Centered AI Alignment
-  - Large Language Models and LLM Agents
+  - Agentic and Human-Centered AI
   - Multi-Agent Systems
+  - Self-Distillation and Recursive Self-Improvement
+  - Computer-Use Agents and Multimodal LLMs
   - AI Safety and Trustworthy AI
+  - Robotics
   - AI for Health
 
 education:
@@ -76,14 +78,15 @@ education:
     summary: |
       Threads: Intelligence and People. Cumulative GPA: 3.94/4.00, Major GPA: 4.00/4.00. Undergraduate research advised by [Prof. Gregory Abowd](https://scholar.google.com/citations?user=gb8sbdcAAAAJ&hl=en) and [Prof. Jennifer Kim](https://faculty.cc.gatech.edu/~jkim693/).
 work:
-  - position: Applied Scientist Intern
+  - position: Applied Scientist II Intern
     company_name: Amazon
     company_url: 'https://www.amazon.science/'
     company_logo: ''
     date_start: 2026-08-01
     date_end: ''
     summary: |2-
-      - Applied Scientist Intern at Amazon, Seattle, WA.
+      - Develop and evaluate LLM-based behavioral simulations to support product experimentation.
+      - Build training and evaluation pipelines to compare predictions with observed behavior and inform experiment prioritization.
   - position: Research Intern
     company_name: "Microsoft AI / Microsoft Research"
     company_url: 'https://www.microsoft.com/en-us/research/'
@@ -91,7 +94,8 @@ work:
     date_start: 2026-05-26
     date_end: 2026-08-31
     summary: |2-
-      - Research Intern in Redmond, WA, working on AI agents in health.
+      - Developed LLM-based memory and retrieval prototypes to organize patient information.
+      - Benchmarked response quality, reliability, and computational efficiency to inform the design of health AI systems.
 
   - position: Ph.D. Research Intern
     company_name: "Dolby Laboratories"
@@ -100,7 +104,7 @@ work:
     date_start: 2025-05-19
     date_end: 2025-08-08
     summary: |2-
-      - Developed CompanionCast, a multi-agent conversational AI framework designed to enhance social co-viewing experiences through LLM-driven companion agents.
+      - Developed CompanionCast, a multi-agent conversational AI framework for social co-viewing, accepted at the ACM AI Summit.
       - Integrated spatial audio processing into a multi-agent system to create immersive, realistic social interactions in group entertainment settings.
       - Implemented an LLM-as-the-judge evaluation pipeline to iterate on agent alignment and conversational quality.
   - position: Research
@@ -250,10 +254,10 @@ awards:
 
 ## About Me
 
-Yiyang "Diana" Wang is a Computer Science Ph.D. student at Georgia Tech, working in the Ka Moamoa Lab with Prof. Josiah Hester. She researches **human-centered AI alignment** for **large language models** and **agentic systems**: she studies how AI systems behave and fail in social and collaborative settings, and develops **post-training**, **evaluation**, and **interaction** methods that make them more reliable, steerable, and responsive to human needs.
+Yiyang "Diana" Wang is a Computer Science Ph.D. student at Georgia Tech, working in the Ka Moamoa Lab with Prof. Josiah Hester. She researches **agentic and human-centered AI**, with work on **multi-agent coordination**, **self-distillation**, **computer-use agents**, and responsible AI deployment. She studies how AI systems behave and fail in social and collaborative settings, and develops **post-training**, **evaluation**, and **interaction** methods that make them more reliable, steerable, and responsive to human needs.
 
-A central thread of her work is designing and evaluating **multi-agent systems** that are collaborative, reliable, and grounded in human needs. She has built socio-collaborative AI companions that stay in character and contribute meaningfully ([MASCOT](/publication/mascot/), EMNLP 2026 Main; [CompanionCast](/publication/companioncast/); and [CultivAgents](/publication/cultivagents/)), as well as LLM-agent frameworks to study complex social dynamics ([AgentReview](https://aclanthology.org/2024.emnlp-main.70/), EMNLP 2024 Oral). She also advances the **foundation-model** stack itself — from robustness and prompt optimization for **large language models** ([TextReg](/publication/textreg/)) to efficient **self-distillation** for LLMs ([UniSD](/publication/unisd/)).
+A central thread of her work is designing and evaluating **multi-agent systems** that are collaborative, reliable, and grounded in human needs. She has built socio-collaborative AI companions that stay in character and contribute meaningfully ([MASCOT](/publication/mascot/), EMNLP 2026 Main, Oral; [CompanionCast](/publication/companioncast/), ACM AI Summit; and [CultivAgents](/publication/cultivagents/)), as well as LLM-agent frameworks to study scientific ecosystems ([Science Utopia](/publication/science-utopia/); [AgentReview](https://aclanthology.org/2024.emnlp-main.70/), EMNLP 2024 Oral). Her recent work also explores **self-distillation** ([UniSD](/publication/unisd/)), learning from persistent knowledge sources ([SourceLearn](/publication/sourcelearn/)), and evaluating **computer-use agents** serving diverse users ([PersonaCUABench](/publication/personacuabench/)).
 
 Complementing this, she develops multimodal sensing and machine learning systems for **health and social good**, translating raw signals into actionable insight — for example, fine-grained nicotine-intake estimation for smoking-cessation support ([PuffEM](/publication/wang-puff-em-ecigarette-sleeve-2025/), IEEE/ACM CHASE 2025). Across projects, she pairs rigorous **evaluation** and **human-centered design** with practical engineering (Python, ML pipelines, on-device systems) to ship research that drives product and real-world impact.
 
-She is currently an **Applied Scientist Intern at Amazon** (since August 2026), following a research internship at **Microsoft AI / Microsoft Research** on AI agents in health (Summer 2026), a Ph.D. research internship at **Dolby** (2025), and software engineering internships at Amazon (×2) and HubSpot. She is actively seeking **AI research / applied scientist** internship and full-time opportunities, and is always glad to discuss new ideas and collaborations. ☕️
+She is currently an **Applied Scientist II Intern at Amazon** (since August 2026), developing LLM-based behavioral simulations for product experimentation. Previously, she worked on memory and retrieval for health AI at **Microsoft AI / Microsoft Research** (Summer 2026), multi-agent companions at **Dolby** (2025), and software engineering at Amazon (×2) and HubSpot. She is actively seeking **AI research / applied scientist** internship and full-time opportunities, and is always glad to discuss new ideas and collaborations. ☕️

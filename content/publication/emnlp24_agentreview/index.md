@@ -5,8 +5,8 @@ title: 'AgentReview: Exploring Peer Review Dynamics with LLM Agents'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Yiqiao Jin*
-  - Qinlin Zhao*
+  - Yiqiao Jin
+  - Qinlin Zhao
   - admin
   - Hao Chen
   - Kaijie Zhu
@@ -15,7 +15,8 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Lead author'
+  - 'Equal contribution'
+  - 'Equal contribution'
 
 date: '2024-11-12T00:00:00Z'
 doi: ''
@@ -44,7 +45,7 @@ tags:
   - Academic Publishing
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
