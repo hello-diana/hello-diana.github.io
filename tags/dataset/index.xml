@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dataset | Yiyang "Diana" Wang</title><link>https://hello-diana.github.io/tags/dataset/</link><atom:link href="https://hello-diana.github.io/tags/dataset/index.xml" rel="self" type="application/rss+xml"/><description>Dataset</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Mar 2025 00:00:00 +0000</lastBuildDate><image><url>https://hello-diana.github.io/media/icon_hu_fafc5f9d7df44253.png</url><title>Dataset</title><link>https://hello-diana.github.io/tags/dataset/</link></image><item><title>SciEvo: A 2 Million, 30-Year Cross-disciplinary Dataset for Temporal Scientometric Analysis</title><link>https://hello-diana.github.io/project/scievo/</link><pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate><guid>https://hello-diana.github.io/project/scievo/</guid><description>&lt;h2 id="abstract"&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Understanding the creation, evolution, and dissemination of scientific knowledge is crucial for bridging diverse subject areas and addressing complex global challenges such as pandemics, climate change, and ethical AI. Scientometrics, the quantitative and qualitative study of scientific literature, provides valuable insights into these processes. We introduce SciEvo, a longitudinal scientometric dataset with over two million academic publications, providing comprehensive contents information and citation graphs to support cross-disciplinary analyses. SciEvo is easy to use and available across platforms, including GitHub, Kaggle, and HuggingFace. Using SciEvo, we conduct a temporal study spanning over 30 years to explore key questions in scientometrics: the evolution of academic terminology, citation patterns, and interdisciplinary knowledge exchange. Our findings reveal critical insights, such as disparities in epistemic cultures, knowledge production modes, and citation practices. For example, rapidly developing, application-driven fields like LLMs exhibit significantly shorter citation age (2.48 years) compared to traditional theoretical disciplines like oral history (9.71 years).&lt;/p&gt;
+&lt;h2 id="best-paper-award-"&gt;Best Paper Award 🏆&lt;/h2&gt;
+&lt;p&gt;This work received the &lt;strong&gt;Best Paper Award&lt;/strong&gt; at the
+.&lt;/p&gt;
+&lt;h2 id="key-contributions"&gt;Key Contributions&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Large-scale Temporal Dataset&lt;/strong&gt;: 2M+ papers across 30 years with consistent temporal coverage&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cross-disciplinary Scope&lt;/strong&gt;: Coverage across multiple scientific domains&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Benchmark Tasks&lt;/strong&gt;: Four established temporal analysis tasks for evaluation&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Quality Validation&lt;/strong&gt;: Systematic filtering and verification procedures&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;p&gt;Scientometrics, Temporal Analysis, Dataset, Benchmark, Scientific Evolution&lt;/p&gt;
+&lt;h2 id="links"&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Paper&lt;/strong&gt;:
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Code &amp;amp; Dataset&lt;/strong&gt;:
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Workshop&lt;/strong&gt;:
+&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>
